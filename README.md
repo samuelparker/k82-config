@@ -1,1 +1,1 @@
-# k82-config
+# k8s-config
